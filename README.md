@@ -89,17 +89,17 @@ To track lending performance, assess portfolio risk, and identify trends, the ba
 
 | KPI | Metric Definition | MTD | MoM Δ |
 |-----|-------------------|-----|-------|
-| **Total Loan Applications** | Count of all loan submissions in the period | 38,600 | ↗ 4.2 % |
-| **Total Funded Amount** | Σ *Funded Amount* (principal disbursed) | $1.42 B | ↘ 1.1 % |
-| **Total Amount Received** | Σ *Payments Received* (principal + interest) | $1.36 B | ↗ 2.6 % |
-| **Average Interest Rate** | AVG(*Interest Rate*) | 13.5 % | ↔ 0 % |
-| **Average DTI** | AVG(*Debt‑to‑Income Ratio*) | 21.3 % | ↔ 0 % |
+| **Total Loan Applications** | Count of all loan submissions in the period | 4.3 K | ↗ 6.9 % |
+| **Total Funded Amount** | Σ *Funded Amount* (principal disbursed) | $54.0 M | ↗ 13.0 % |
+| **Total Amount Received** | Σ *Payments Received* (principal + interest) | $58.1 M | ↗ 15.8 % |
+| **Average Interest Rate** | AVG(*Interest Rate*) | 12.36 % | 3.5 % |
+| **Average DTI** | AVG(*Debt‑to‑Income Ratio*) | 13.67 % | 2.7 % |
 
 ### Good vs. Bad Loan KPIs  
 | Category | Loan Status | % of Applications | # Applications | Funded Amount | Total Received |
 |----------|-------------|------------------|----------------|---------------|----------------|
-| **Good Loans** | *Fully Paid* & *Current* | **74.38 %** | 28,720 | $1.05 B | $1.02 B |
-| **Bad Loans** | *Charged Off* | **25.62 %** | 9,880 | $370 M | $340 M |
+| **Good Loans** | *Fully Paid* & *Current* | **86.18 %** | 33.2 K | $370.2 M | $435.8 M |
+| **Bad Loans** | *Charged Off* | **13.82 %** | 5.3 K | $65.5 M | $37.3 M |
 
 ---  
 
